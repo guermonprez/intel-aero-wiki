@@ -11,20 +11,20 @@
 
 # Introduction
 
-### [About Intel Aero](01-About-Intel-Aero)
+### [About Intel Aero](01-About-Intel-Aero.md)
 * Is Intel Aero right for me?
 * OS and SW development methods
 * What’s in the box, what’s not in the box
 
-### [Initial setup](02-Initial-setup)
+### [Initial setup](02-Initial-setup.md)
 * Hardware
 * Connection
 * Flashing
 
-### [First flight](03-First-flight)
+### [First flight](03-First-flight.md)
 * First flight with the remote
 
-### [Installing Ubuntu*](90-(References)-OS-user-Installation)
+### [Installing Ubuntu*](90-(References)-OS-user-Installation.md)
 * Installation from from USB
 * Intel repository for drivers and user space tools
 
@@ -32,6 +32,6 @@
 * Formats: Youtube playlist, slides, pdfs
 * OpenSource: CreativeCommons-BY
 
-### [Intel Aero Ecosystem](80-Intel-Aero-Ecosystem)
+### [Intel Aero Ecosystem](80-Intel-Aero-Ecosystem.md)
 Drotek, Ardupilot, PX4, Airmap, Dronesmith, FlytBase
 
