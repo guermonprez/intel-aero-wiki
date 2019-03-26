@@ -19,7 +19,7 @@ nmcli dev wifi connect <network name> password <password>
 With Ubuntu*: If you install Ubuntu* manually on Intel Aero, it will work in client mode by default. You can join a WiFi network using the typical network manager tools.
 
 # [Networking: Access Point Wifi](#networking-access-point-wifi)
-Please refer to the module `C2 - Lab Setup - Network and ssh` [of the course](https://github.com/guermonprez/intel-aero-documents/tree/master/course) for more details. Here are the basic facts:
+Please refer to the module `C2 - Lab Setup - Network and ssh` [of the course](https://github.comhttps://raw.githubusercontent.com/guermonprez/intel-aero-documents/tree/master/course) for more details. Here are the basic facts:
 
 By default, Intel's Yocto for Aero is broadcasting a WiFi access point called `Aero-<MAC>` and **Wi-Fi password is 1234567890**.
 
@@ -50,7 +50,7 @@ ssh root@intel-aero.local
 ```
 
 # [Networking: Internet Access](#networking-internet-access)
-Please refer to the module `C2 - Lab Setup - Network and ssh` [of the course](https://github.com/guermonprez/intel-aero-documents/tree/master/course) for more details. Here are the basic facts:
+Please refer to the module `C2 - Lab Setup - Network and ssh` [of the course](https://github.comhttps://raw.githubusercontent.com/guermonprez/intel-aero-documents/tree/master/course) for more details. Here are the basic facts:
 
 In order to have internet access on Aero board it's possible to switch it to client mode so it connects to your Access Point instead of being an Access Point itself. We'll use the standard connman.
 

@@ -2,7 +2,7 @@ The Aero Compute Board can connect to a variety of sensors and controllers throu
 
 Though these instructions are specifically for the Pixhawk flight controller, any flight controller with a UART interface can be attached.
 
-<img src="https://github.com/guermonprez/intel-aero-documents/blob/master/doc_photos/pixhawk_aero.png?raw=true"  />
+<img src="https://github.comhttps://raw.githubusercontent.com/guermonprez/intel-aero-documents/blob/master/doc_photos/pixhawk_aero.png?raw=true"  />
 
 
 
@@ -42,20 +42,20 @@ Though these instructions are specifically for the Pixhawk flight controller, an
 ### Hardware Configuration
 The Intel Aero Compute Board is shipped with a power cable that includes a separate pin connector as shown in Figure 1. This standard 0.1” 3-pin connector exposes the HSUART pins from the Aero Compute Board. 
 
-<img src="https://github.com/guermonprez/intel-aero-documents/blob/master/doc_photos/pixhawk_aero_power_cable.jpg?raw=true" width=70%/><br>
+<img src="https://github.comhttps://raw.githubusercontent.com/guermonprez/intel-aero-documents/blob/master/doc_photos/pixhawk_aero_power_cable.jpg?raw=true" width=70%/><br>
 **Figure 1.** Power + HSUART pins
 
 The Pixhawk will be connected to this 3-pin connector via its TELEM2 port, this port has a DF13 mating connector. The user is recommended to create a cable similar to the one shown below, with a 6-pin DF13 connector on one side and a 0.1" 3-pin female header on the other. 
 
-<img src="https://github.com/guermonprez/intel-aero-documents/blob/master/doc_photos/pixhawk_aero_uart_cable.png?raw=true" width=50%/><br>
+<img src="https://github.comhttps://raw.githubusercontent.com/guermonprez/intel-aero-documents/blob/master/doc_photos/pixhawk_aero_uart_cable.png?raw=true" width=50%/><br>
 **Figure 2.** 6-pin DF13 connector to 3-pin female header. Pinout of the HSUART
 > The HSUART interface operates at 3.3V. Do not exceed 3.6V
 
 When creating this cable, be mindful of the TX/RX connections. The TX of the Aero Compute Board is connected to the RX of the Pixhawk.  The RX of the Aero Compute Board connects to the TX of the Pixhawk.  As reference, Figure 4 shows the ports and pinout of the Pixhawk. 
 
 
-<img src="https://github.com/guermonprez/intel-aero-documents/blob/master/doc_photos/pixhawk_aero_ports.png?raw=true" width=60% />
-<img src="https://github.com/guermonprez/intel-aero-documents/blob/master/doc_photos/pixhawk_pinout.png?raw=true"/><br>
+<img src="https://github.comhttps://raw.githubusercontent.com/guermonprez/intel-aero-documents/blob/master/doc_photos/pixhawk_aero_ports.png?raw=true" width=60% />
+<img src="https://github.comhttps://raw.githubusercontent.com/guermonprez/intel-aero-documents/blob/master/doc_photos/pixhawk_pinout.png?raw=true"/><br>
 <strong>Figure 4.</strong> Pixhawk ports and TELEM pinout<br><br>
 
 ### Powering the Aero Compute Board and Pixhawk
@@ -64,5 +64,5 @@ The Aero Compute Board can be powered directly from the drone’s power distribu
 
 In Figure 5, we used a XT60 power module (outputs 5.3V 3A max) to supply power to the Aero Compute Board. The power module might not be able to power both the compute board and Pixhawk, however, you can daisy chain two together and provide power separately. 
 
-<img src="https://github.com/guermonprez/intel-aero-documents/blob/master/doc_photos/pixhawk_aero_setup.jpg?raw=true"/><br>
+<img src="https://github.comhttps://raw.githubusercontent.com/guermonprez/intel-aero-documents/blob/master/doc_photos/pixhawk_aero_setup.jpg?raw=true"/><br>
 **Figure 5.** Aero Compute Board being power by a XT60 power module and connected to Pixhawk's telemetry port.

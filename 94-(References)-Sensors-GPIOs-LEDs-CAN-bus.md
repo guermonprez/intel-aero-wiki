@@ -2,7 +2,7 @@
 The content found in this section augments much of the details found in the [Hardware Features and Usage] (https://www.intel.com/content/dam/support/us/en/documents/boardsandkits/aero/intel-aero-compute-board-guide.pdf) document.
 
 # Flight Controller Block Diagram
-![Aero Flight Controller](https://github.com/guermonprez/intel-aero-documents/blob/master/doc_photos/fcm.png)
+![Aero Flight Controller](https://github.comhttps://raw.githubusercontent.com/guermonprez/intel-aero-documents/blob/master/doc_photos/fcm.png)
 
 * The purpose of the illustration is to focus on the Aero Flight Controller connections.
 

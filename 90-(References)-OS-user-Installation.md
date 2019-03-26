@@ -161,7 +161,7 @@ Nov 08 17:28:01 frelon csd[14616]: (gst-plugin-scanner:14618): Clutter-Gst-CRITI
 Nov 08 17:28:02 frelon csd[14616]: AVAHI START
 ```
 We have started CSD without configuring it manually: it will find the video devices automatically and propose feeds. As a test, use VLC on your computer and open the video2 feed `rtsp://192.168.1.4:8554/video13`. On my network, Intel Aero has IP 192.168.1.4 but yours will be different of course (type `ifconfig wlp1s0` to see your IP).
-![VLC RTSP](/guermonprez/intel-aero-documents/raw/master/doc_photos/vlc_rtsp.png)
+![VLC RTSP](https://raw.githubusercontent.com/guermonprez/intel-aero-documents/raw/master/doc_photos/vlc_rtsp.png)
 
 For more understanding, visit [https://github.com/01org/camera-streaming-daemon](https://github.com/01org/camera-streaming-daemon)
 
@@ -274,7 +274,7 @@ To see the output of a camera, use the SDK tools. Examples:
 * `cpp-tutorial-1-depth` (command line)
 * `cpp-capture` (graphical). You should something like:
 
-![RS output](/guermonprez/intel-aero-documents/raw/master/doc_photos/rs_cpp-capture_chairs.png)
+![RS output](https://raw.githubusercontent.com/guermonprez/intel-aero-documents/raw/master/doc_photos/rs_cpp-capture_chairs.png)
 
 ### CSD
 

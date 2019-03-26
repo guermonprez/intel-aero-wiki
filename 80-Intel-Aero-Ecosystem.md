@@ -29,7 +29,7 @@ Skysense Charging Pad specifications:
 * remote control: GUI, terminal interface, API
 * available in the indoor (IP44) and outdoor (IP55) edition
 
-![Skysense charging pad](/guermonprez/intel-aero-documents/raw/master/doc_photos/ecosystem-skysense.jpg)
+![Skysense charging pad](https://raw.githubusercontent.com/guermonprez/intel-aero-documents/raw/master/doc_photos/ecosystem-skysense.jpg)
 
 
 You can order your Skysense development kit at [skysense.co](http://www.skysense.co/contact-us)

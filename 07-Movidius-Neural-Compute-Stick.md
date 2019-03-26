@@ -80,7 +80,7 @@ python3 stream_infer.py
 While connected on the hdmi graphical output of the board/drone, you should see a window analyzing images from the wbecam in real time on the NCS.
 The network used is very powerful. In this example, the network running on the NCS was able to pick my dog and even give a pretty good estimate of the dog's race (it's a papillon, not a pekinese).
 
-![](/guermonprez/intel-aero-documents/raw/master/doc_photos/movidius_pekinese.png)
+![](https://raw.githubusercontent.com/guermonprez/intel-aero-documents/raw/master/doc_photos/movidius_pekinese.png)
 
 
 ## [Going further](#going-further)

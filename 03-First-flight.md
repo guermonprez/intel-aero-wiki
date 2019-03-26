@@ -31,25 +31,25 @@ rear of the drone as shown in Figure 1.
 airframe as possible.
       3. Connect the battery cable to the drone using the XT60 connector
 
-         ![Figure 1](/guermonprez/intel-aero-documents/raw/master/doc_photos/guide_1.png)
+         ![Figure 1](https://raw.githubusercontent.com/guermonprez/intel-aero-documents/raw/master/doc_photos/guide_1.png)
 
    2. Set up the GPS Antenna (see Figure 2) : Raise the GPS antenna mast 90o until vertical then tighten the antenna base cover
 
-      ![Figure 2](/guermonprez/intel-aero-documents/raw/master/doc_photos/guide_2.png)
+      ![Figure 2](https://raw.githubusercontent.com/guermonprez/intel-aero-documents/raw/master/doc_photos/guide_2.png)
 
    3. Attach the propellers (see Figure 3)
       1. Identify propellers marked as “A” and “B” on top of the propeller blade.
       2. Attach each propeller to its corresponding labeled motor by pressing down and twisting __counter-clockwise__ (for “A” propellers) and __clockwise__ (for “B” propellers) until each propeller latches securely.
       3. To detach the propeller, press the center hub of the propeller while twisting the propeller blade in the opposite direction used when attaching.
 
-         ![Figure 3](/guermonprez/intel-aero-documents/raw/master/doc_photos/guide_3.png)
+         ![Figure 3](https://raw.githubusercontent.com/guermonprez/intel-aero-documents/raw/master/doc_photos/guide_3.png)
 
    4. Prepare the remote control transmitter (see Figure 4)
       1. Install the 4 AA alkaline batteries in the transmitter.
       2. Flip all toggle switches UP or AWAY from the pilot. The Flight Mode switch should be set to __Manual__ (mode 0) until you arm the motors in Step 3.iv.
       3. Turn ON the transmitter by sliding its power switch UP (located between the two gimbal sticks) The transmitter’s power LED will turn to steady orange and a two-tone “rising chirp” will be heard.
 
-         ![Figure 4](/guermonprez/intel-aero-documents/raw/master/doc_photos/guide_4.png)
+         ![Figure 4](https://raw.githubusercontent.com/guermonprez/intel-aero-documents/raw/master/doc_photos/guide_4.png)
 
 3. Prepare to Fly
    1. Perform all pre-flight safety procedures as follows: __Pre-Flight Safety Check.__ Perform this safety check before each flight of the drone (also referred to as UAV). Verify the following:
@@ -68,11 +68,11 @@ propellers.
 
       After turning ON the drone, wait at least 30 seconds before attempting to turn OFF the drone. This includes turning OFF the drone either by pressing the power button or by disconnecting the battery. By waiting for at least 30 seconds, the system should have enough time to load all software components, reducing the risks associated with an unexpected shutdown.
 
-      ![Figure 5](/guermonprez/intel-aero-documents/raw/master/doc_photos/guide_5.png)
+      ![Figure 5](https://raw.githubusercontent.com/guermonprez/intel-aero-documents/raw/master/doc_photos/guide_5.png)
 
    3. Verify the remote control transmitter is paired to the drone: Verify the orange LED on the remote control receiver located on the bottom side of the drone (Figure 6) is illuminated and steady orange. _If the LED is blinking or not ON, please check the troubleshooting tips._
 
-      ![Figure 6](/guermonprez/intel-aero-documents/raw/master/doc_photos/guide_6.png)
+      ![Figure 6](https://raw.githubusercontent.com/guermonprez/intel-aero-documents/raw/master/doc_photos/guide_6.png)
 
    4. Arming and Disarming the Motors
      The following instructions assume default factory settings. If you modify the Flight Mode configurations, these instructions may not apply.
@@ -82,7 +82,7 @@ propellers.
 
          Note: When flying indoors, or areas where there is a weak GPS signal, use Manual flight mode (mode 0).
 
-         ![Figure 7](/guermonprez/intel-aero-documents/raw/master/doc_photos/guide_7.png)
+         ![Figure 7](https://raw.githubusercontent.com/guermonprez/intel-aero-documents/raw/master/doc_photos/guide_7.png)
 
       2. To disarm the motors, press the left gimbal stick toward the bottom left. Hold for about 2 seconds. (Figure 7) The motors will stop spinning.
 
@@ -149,7 +149,7 @@ To re-calibrate the drone using QGroundControl:
    2. The passkey for the Aero WiFi access point is “1234567890”.
    3. Disable any firewall or VPN service on the laptop which is running QGC.
 
-      ![Figure 8](/guermonprez/intel-aero-documents/raw/master/doc_photos/guide_8.png)
+      ![Figure 8](https://raw.githubusercontent.com/guermonprez/intel-aero-documents/raw/master/doc_photos/guide_8.png)
 
 3. To perform the calibration process (refer to Figure 8):
    1. Once the laptop which is running QGC connects to the Intel Aero Ready to Fly Drone, select

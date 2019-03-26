@@ -41,23 +41,23 @@ To preform the LTE modem hardware installation, you will need to purchase the fo
 
 [Links to online retailers](https://github.comhttps://raw.githubusercontent.com/guermonprez/meta-intel-aero/wiki/90-(References)-Enabling-LTE-Modems#resources) where these items can be purchased are found at the end of these instructions.
 
-<img src="https://raw.githubusercontent.com/guermonprez/intel-aero-documents/master/doc_photos/lte_required_hw.png?raw=true" width=50%/><br>
+<img src="https://raw.githubusercontent.comhttps://raw.githubusercontent.com/guermonprez/intel-aero-documents/master/doc_photos/lte_required_hw.png?raw=true" width=50%/><br>
 **Figure 1.** Required Hardware
 
 The LTE modem will be installed into the M.2 connector which is located on the top side of the Aero Compute Board, adjacent to the 80 pin I/O Expansion Connector. Use the 2mm hex nut to secure the LTE modem module to the mounting post near the heat sink.
 
-<img src="https://raw.githubusercontent.com/guermonprez/intel-aero-documents/master/doc_photos/lte_modem_tilt.png?raw=true" width= 40%/> <img src="https://raw.githubusercontent.com/intel-aero/Documents/master/doc_photos/lte_modem_fit.png?raw=true" width=40%/> <br>
+<img src="https://raw.githubusercontent.comhttps://raw.githubusercontent.com/guermonprez/intel-aero-documents/master/doc_photos/lte_modem_tilt.png?raw=true" width= 40%/> <img src="https://raw.githubusercontent.com/intel-aero/Documents/master/doc_photos/lte_modem_fit.png?raw=true" width=40%/> <br>
 **Figure 2.** Insert modem into M.2 and secure it with the 2mm hex nut  
 
 ### Connecting the Antennas
 When installing the LTE modem, two antennas are required for proper operation. Both the Intel Aero Ready to Fly Drone and the Intel Compute Board are shipped with two WiFi antenna. These two antennas appear as "wings" attached to the sides of the plastic enclosure. The WiFi antennas will be re-purposed for use with the LTE modem.
 
-<img src="https://raw.githubusercontent.com/guermonprez/intel-aero-documents/master/doc_photos/lte_wifi_wings.png?raw=true" width=50%/><br>
+<img src="https://raw.githubusercontent.comhttps://raw.githubusercontent.com/guermonprez/intel-aero-documents/master/doc_photos/lte_wifi_wings.png?raw=true" width=50%/><br>
 **Figure 4.** Image showing location of the wings
 
 if WiFi communication is not needed, then carefully disconnect the antennas micro SMA connectors from the WiFi module on the bottom of the Aero Compute Board and connect them to the two micro SMA connectors on the LTE modem. These are very small connectors. The antennas will "pop" off. Be gentle and careful when removing them. After connecting them to the LTE modem, verify a good connection is made by rotating the antenna on the micro SMA connector to verify that it can rotate freely. If the antenna does not rotate freely, then the antenna is not properly seated on the micro SMA connector.
 
-<img src="https://raw.githubusercontent.com/guermonprez/intel-aero-documents/master/doc_photos/lte_wifi_antenna.png?raw=true" width= 40%/> <img src="https://raw.githubusercontent.com/intel-aero/Documents/master/doc_photos/lte_modem_antenna.png?raw=true" width=40%/> <br>
+<img src="https://raw.githubusercontent.comhttps://raw.githubusercontent.com/guermonprez/intel-aero-documents/master/doc_photos/lte_wifi_antenna.png?raw=true" width= 40%/> <img src="https://raw.githubusercontent.com/intel-aero/Documents/master/doc_photos/lte_modem_antenna.png?raw=true" width=40%/> <br>
 **Figure 5.** Image on the left shows the removal of the antenna from the WiFi module underneath the Aero Compute Board. Then on the right they are attached to the modem. 
 
 If both WiFi and LTE modem functions are required, we recommend replacing the Intel Aero Ready to Fly Drone's WiFi antennas by following our "[Instructable](http://www.instructables.com/id/Intel-Aero-Drone-Extending-Wifi-Range/)" which will extend the range of the drone's WiFi radio. This will allow you to then use the original WiFi antennas for the LTE modem as described above. 
@@ -73,7 +73,7 @@ Using​ ​ a ​ ​ tool​ ​ of​ ​ your​ ​ choice​ ​ (X-Acto�
 for​ ​ the​ ​ SIM​ ​ tray​ ​ that​ ​ is​ ​ approximately​ ​ 16mm​ ​ x ​​ 5mm.​ ​ This​ ​ will​ ​ allow​ ​ enough​ ​ room​ ​ for​ ​ the​ ​ SIM​ ​ tray
 to​ ​ sit​ ​ comfortably​ ​ within​ ​ the​ ​ enclosure​ ​ and​ ​ also​ ​ allow easy​ ​ access​ ​ for extracting the SIM​ ​ card.
 
-<img src="https://raw.githubusercontent.com/guermonprez/intel-aero-documents/master/doc_photos/lte_enclosure.png?raw=true" width= 40%/> <img src="https://raw.githubusercontent.com/intel-aero/Documents/master/doc_photos/lte_enclosure_modified.png?raw=true" width=40%/> <br>
+<img src="https://raw.githubusercontent.comhttps://raw.githubusercontent.com/guermonprez/intel-aero-documents/master/doc_photos/lte_enclosure.png?raw=true" width= 40%/> <img src="https://raw.githubusercontent.com/intel-aero/Documents/master/doc_photos/lte_enclosure_modified.png?raw=true" width=40%/> <br>
 **Figure 6.** Image on the left shows how the SIM tray interferes with the plastic enclosure. Image on the right shows the SIM tray fits within the plastic enclosure after modifications.
 
 # Software Configuration
@@ -92,7 +92,7 @@ automatically​ ​ detect​ ​ the​ ​ installed​ ​ LTE​ ​ modem�
 info​ ​ below.
 
     # mmcli -m 0
-<img src="https://raw.githubusercontent.com/guermonprez/intel-aero-documents/master/doc_photos/lte_status.png?raw=true" /> <br>
+<img src="https://raw.githubusercontent.comhttps://raw.githubusercontent.com/guermonprez/intel-aero-documents/master/doc_photos/lte_status.png?raw=true" /> <br>
 
 If​ ​ the​ ​ LTE​ ​ modem​ ​ is​ ​ not​ ​ detected,​ ​ please​ ​ double​ ​ check​ ​ that​ ​ the​ ​ modem​ ​ is​ ​ seated​ ​ securely​ ​ and
 the​ ​ SIM​ ​ card​ ​ is​ ​ properly​ ​ inserted.​ ​ Take​ ​ precautions​ ​ as​ ​ the​ ​ SIM​ ​ card​ ​ can​ ​ potentially​ ​ slide​ ​ out​ ​ due
@@ -119,13 +119,13 @@ Reboot the system so that the configuration will take effect. With the previous 
 
     # mmcli -b <bearer number>
 
-<img src="https://raw.githubusercontent.com/guermonprez/intel-aero-documents/master/doc_photos/lte_ip.png?raw=true" width=50%/> <br>
+<img src="https://raw.githubusercontent.comhttps://raw.githubusercontent.com/guermonprez/intel-aero-documents/master/doc_photos/lte_ip.png?raw=true" width=50%/> <br>
 
 Below you can see the device "cdc-wdm0" with connection name "modem" is in the connected state. 
 
     # nmcli device
 
-<img src="https://raw.githubusercontent.com/guermonprez/intel-aero-documents/master/doc_photos/lte_connection.png?raw=true" width=50%/> <br>
+<img src="https://raw.githubusercontent.comhttps://raw.githubusercontent.com/guermonprez/intel-aero-documents/master/doc_photos/lte_connection.png?raw=true" width=50%/> <br>
 
 Verify internet connectivity by pinging your favorite website.
 
@@ -148,7 +148,7 @@ this​ ​ cloud​ ​ based​ ​ mavlink-router​ ​ and​ ​ communica
 method​ ​ is​ ​ flight​ ​ logs​ ​ are​ ​ stored​ ​ automatically​ ​ in​ ​ the​ ​ cloud,​ ​ so​ ​ in​ ​ case​ ​ of​ ​ fly-aways​ ​ a ​ ​ copy​ ​ of​ ​ the
 logs​ ​ can​ ​ be​ ​ retrieved.​ ​ This​ ​ method​ ​ also​ ​ scales​ ​ well​ ​ with​ ​ one-to-many​ ​ use​ ​ cases.
 
-<img src="https://raw.githubusercontent.com/guermonprez/intel-aero-documents/master/doc_photos/lte_cloud_chart.png?raw=true" />
+<img src="https://raw.githubusercontent.comhttps://raw.githubusercontent.com/guermonprez/intel-aero-documents/master/doc_photos/lte_cloud_chart.png?raw=true" />
 
 1. Obtain access to a Linux based cloud server and note its external IP
 2. Configure the server's firewall to allow TCP traffic on port 5760

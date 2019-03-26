@@ -28,7 +28,7 @@
 * Installation from from USB
 * Intel repository for drivers and user space tools
 
-### [Video course](/guermonprez/intel-aero-documents/tree/master/course)
+### [Video course](https://raw.githubusercontent.com/guermonprez/intel-aero-documents/tree/master/course)
 * Formats: Youtube playlist, slides, pdfs
 * OpenSource: CreativeCommons-BY
 

@@ -1,6 +1,6 @@
 # [Introduction](#introduction)
 
-Please check our [online course](https://github.com/guermonprez/intel-aero-documents/tree/master/course) (slides or videos) to understand:
+Please check our [online course](https://github.comhttps://raw.githubusercontent.com/guermonprez/intel-aero-documents/tree/master/course) (slides or videos) to understand:
 * how to connect to the flight controller
 * what's the general software architecture
 * how to use yocto or ubuntu or the linux OS of choice in a container
@@ -21,15 +21,15 @@ When you have a keyboard, mouse and hdmi screen connected on Intel Aero, you can
 
 * example: vim over ssh
 
-![vim](/guermonprez/intel-aero-documents/raw/master/doc_photos/python_vim.png)
+![vim](https://raw.githubusercontent.com/guermonprez/intel-aero-documents/raw/master/doc_photos/python_vim.png)
 
 * example: IDLE
 
-![idle](/guermonprez/intel-aero-documents/raw/master/doc_photos/python_idle.png)
+![idle](https://raw.githubusercontent.com/guermonprez/intel-aero-documents/raw/master/doc_photos/python_idle.png)
 
 * example: eric
 
-![eric](/guermonprez/intel-aero-documents/raw/master/doc_photos/python_eric.png)
+![eric](https://raw.githubusercontent.com/guermonprez/intel-aero-documents/raw/master/doc_photos/python_eric.png)
 
 # [Flight control](#flight-control)
 ## [Hello world in PyMAVLINK](#hello-world-pymavlink)
@@ -172,7 +172,7 @@ for symbol in proc.results:
     print 'barcode type=', symbol.type, ' data=', '"%s"' % symbol.data
 
 ```
-And here's a [test sheet with various sizes of barcodes](/guermonprez/intel-aero-documents/raw/master/doc_photos/barcode_test.png).
+And here's a [test sheet with various sizes of barcodes](https://raw.githubusercontent.com/guermonprez/intel-aero-documents/raw/master/doc_photos/barcode_test.png).
 
 # [Networking](#networking)
 

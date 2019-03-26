@@ -1,10 +1,10 @@
 # [Intel Aero: resources, support, links](#intel-aero-ressources-support-links)
 
 Open Source Course:
-* [Main page](https://github.com/guermonprez/intel-aero-documents/tree/master/course)
+* [Main page](https://github.comhttps://raw.githubusercontent.com/guermonprez/intel-aero-documents/tree/master/course)
 * [Youtube playlist](https://www.youtube.com/playlist?list=PLTQSXsG86pGfyZm5ac6-ZtQsEniUJIE9o)
-* [Slides, in PPTX](https://github.com/guermonprez/intel-aero-documents/blob/master/course/pptx)
-* [Slides, in PDF](https://github.com/guermonprez/intel-aero-documents/blob/master/course/pdf)
+* [Slides, in PPTX](https://github.comhttps://raw.githubusercontent.com/guermonprez/intel-aero-documents/blob/master/course/pptx)
+* [Slides, in PDF](https://github.comhttps://raw.githubusercontent.com/guermonprez/intel-aero-documents/blob/master/course/pdf)
 
 Intel Aero Ready to Fly Drone:
 * [Intel Aero Ready to Fly Drone: Product page and specifications](https://software.intel.com/en-us/aero/drone-dev-kit)
@@ -14,13 +14,13 @@ Intel Aero Ready to Fly Drone:
 * [Intel Aero Ready to Fly Drone: Getting started PDF](http://www.intel.com/content/dam/support/us/en/documents/boardsandkits/aero/intel-aero-rtf-drone-getting-started.pdf)
 * [Intel Aero Ready to Fly Drone: Getting started](https://www.intel.com/content/www/us/en/support/drones/development-drones/000023270.html)
 * [Intel Aero Ready to Fly Drone: Presentation Video](https://www.youtube.com/watch?v=22tXN2RRK7M)
-* [STP file](https://github.com/guermonprez/intel-aero-documents/tree/master/mechanical_cad/rtf-frame)
+* [STP file](https://github.comhttps://raw.githubusercontent.com/guermonprez/intel-aero-documents/tree/master/mechanical_cad/rtf-frame)
 * [Spare parts](http://us.yuneec.com/intelaerodroneparts)
 
 Intel Aero Compute Board:
 * [Intel Aero Compute Board: Hardware Features and Usage](https://www.intel.com/content/www/us/en/support/articles/000023602/drones/development-drones.html)
 * [Intel Aero Compute Board: Product page](https://software.intel.com/en-us/aero/dev-kit)
-* [STL/STP files](https://github.com/guermonprez/intel-aero-documents/tree/master/mechanical_cad/compute-board)
+* [STL/STP files](https://github.comhttps://raw.githubusercontent.com/guermonprez/intel-aero-documents/tree/master/mechanical_cad/compute-board)
 * [Hardware Features and Usage for the Intel Aero Compute Board](https://www.intel.com/content/www/us/en/support/drones/development-drones/000023602.html)
 
 Intel Aero Vision Kit:
@@ -30,7 +30,7 @@ Intel Aero Vision Kit:
 
 Intel Aero Enclosure kit:
 * [Intel Aero Enclosure kit](https://software.intel.com/en-us/aero/enclosure)
-* [STL/STP files](https://github.com/guermonprez/intel-aero-documents/tree/master/mechanical_cad/enclosure-kit)
+* [STL/STP files](https://github.comhttps://raw.githubusercontent.com/guermonprez/intel-aero-documents/tree/master/mechanical_cad/enclosure-kit)
 * [Mechanical Assembly Guide for Intel Aero Platform for UAVs ](https://www.intel.com/content/www/us/en/support/boards-and-kits/000023057.html)
 
 Support:

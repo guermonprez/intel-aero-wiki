@@ -26,7 +26,7 @@ Procedure:
 * Make sure you have disabled any sort of firewall/VPN on your Host PC.
 * Launch QGroundControl on Host PC. It will open into the flight path mode. You need to click on the QGC Icon to see the configuration and scroll down:
 
-   ![](https://raw.githubusercontent.com/guermonprez/intel-aero-documents/master/doc_photos/qgc_rtsp.png)
+   ![](https://raw.githubusercontent.comhttps://raw.githubusercontent.com/guermonprez/intel-aero-documents/master/doc_photos/qgc_rtsp.png)
 
 * Video settings: RTSP
 * URL on Yocto: `rtsp://192.168.8.1:8554/video13`
@@ -34,7 +34,7 @@ Procedure:
 
 * Go back to the flight view. The bottom left view should show the video.
 
-   ![](https://raw.githubusercontent.com/guermonprez/intel-aero-documents/master/doc_photos/qgc_rtsp_video.png)
+   ![](https://raw.githubusercontent.comhttps://raw.githubusercontent.com/guermonprez/intel-aero-documents/master/doc_photos/qgc_rtsp_video.png)
 
 _**Note**: It may be possible that video stream is blocked by firewall/VPN. In that case, you may want to disable the firewall/VPN on the host PC_
 
@@ -51,7 +51,7 @@ _**Note**: It may be possible that video stream is blocked by firewall/VPN. In t
 ## [RTSP video streaming from Yocto using VLC](#rtsp-video-streaming-from-yocto-using-vlc)
 Using Yocto, open the network video `rtsp://192.168.8.1:8554/video13`.
 
-![VLC RTSP](/guermonprez/intel-aero-documents/raw/master/doc_photos/vlc_rtsp.png)
+![VLC RTSP](https://raw.githubusercontent.com/guermonprez/intel-aero-documents/raw/master/doc_photos/vlc_rtsp.png)
 
 _**Note**: It may be possible that video stream is blocked by firewall/VPN. In that case, you may want to disable the firewall/VPN on the host PC_
 
@@ -80,11 +80,11 @@ rs.jpg JPEG 1920x1080 1920x1080+0+0 8-bit sRGB 50.4KB 0.000u 0:00.000
 
 Here is an example of a photo of the R200 color camera (resized):
 
-![](/guermonprez/intel-aero-documents/raw/master/doc_photos/rs_color_intel.png)
+![](https://raw.githubusercontent.com/guermonprez/intel-aero-documents/raw/master/doc_photos/rs_color_intel.png)
 
 And one from the bottom black and white camera:
 
-![](/guermonprez/intel-aero-documents/raw/master/doc_photos/camera_bottom.png)
+![](https://raw.githubusercontent.com/guermonprez/intel-aero-documents/raw/master/doc_photos/camera_bottom.png)
 
 ## [Take a photo with the black and white camera](#take-a-photo-with-the-black-and-white-camera)
 
@@ -193,7 +193,7 @@ sudo gst-launch-1.0 v4l2src device=/dev/video13 ! video/x-raw,width=640,height=4
 For a more user friendly tool, install guvcview with ```sudo apt install guvcview``` on Ubuntu.
 Remember, there's 3 feeds for the R200 Camera. Select the third one for the color output.
 
-![](https://raw.githubusercontent.com/guermonprez/intel-aero-documents/master/doc_photos/guvcview.png)
+![](https://raw.githubusercontent.comhttps://raw.githubusercontent.com/guermonprez/intel-aero-documents/master/doc_photos/guvcview.png)
 
 # [Third party USB cameras](#third-party-usb-cameras)
 

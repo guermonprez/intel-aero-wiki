@@ -26,9 +26,9 @@ Alternate method: Connect a USB key only
 * OTG USB cable to Aero (you can reuse an old USB2 OTG cable, but if you're buying a new one pick a USB3 - [check the cable reference notes](https://github.comhttps://raw.githubusercontent.com/guermonprez/meta-intel-aero/wiki/08-Aero-Network-and-System-Administration#sysadmin-ubuntu-installation))
 * USB key to OTG USB cable
 
-![USB-OTG and microHDMI connected](/guermonprez/intel-aero-documents/raw/master/doc_photos/cables_usb-hdmi-connected_small.jpg)
+![USB-OTG and microHDMI connected](https://raw.githubusercontent.com/guermonprez/intel-aero-documents/raw/master/doc_photos/cables_usb-hdmi-connected_small.jpg)
 
-[link to the hi-resolution photo](/guermonprez/intel-aero-documents/raw/master/doc_photos/cables_usb-hdmi-connected.jpg)
+[link to the hi-resolution photo](https://raw.githubusercontent.com/guermonprez/intel-aero-documents/raw/master/doc_photos/cables_usb-hdmi-connected.jpg)
 
 ## Plugging / Unplugging the fan
 * If you use the Intel Compute Board, there is a passive heat-sink and no fan. It is ok as long as you don't run complex code that would cause Aero to heat and require a fan. If you do, we recommend you install a temporary fan (ex: USB powered fan) during development.
@@ -58,10 +58,10 @@ Checking the .iso file:
 ```shell
 md5sum intel-aero-image-intel-aero-1.6.iso
 ```
-![md5sum on linux](/guermonprez/intel-aero-documents/raw/master/doc_photos/install_01_md5sum_linux.png)
+![md5sum on linux](https://raw.githubusercontent.com/guermonprez/intel-aero-documents/raw/master/doc_photos/install_01_md5sum_linux.png)
 * On windows, open [Win32 Disk Imager](https://sourceforge.net/projects/win32diskimager/) and check the "md5 hash" option:
 
-![md5sum on windows](/guermonprez/intel-aero-documents/raw/master/doc_photos/install_01_md5_windows.png)
+![md5sum on windows](https://raw.githubusercontent.com/guermonprez/intel-aero-documents/raw/master/doc_photos/install_01_md5_windows.png)
 
 
 ## Flashing Intel Aero Linux Distribution
@@ -109,7 +109,7 @@ The commands above will verify you have a valid USB drive connected, do some san
 Here's how to follow the flash progress during the alternate method flash:
 * If you have the Aero Compute Board, the RGB LED on the board will blink and change color.
 * If you have the Aero RTF Drone, the blue LEDs next to the power button to convey feedback about the update progress. The RGB LED may be difficult to see on the RTF since it's inside the case. You can look to the hole through each the FAN cable is passing in order to check the color of the RGB LED.
-![RGB Led on RTF](https://github.com/guermonprez/intel-aero-documents/raw/master/doc_photos/rgb-led-rtf.png)
+![RGB Led on RTF](https://github.comhttps://raw.githubusercontent.com/guermonprez/intel-aero-documents/raw/master/doc_photos/rgb-led-rtf.png)
 
 LED colors and frequencies:
 1. By default the LED is green
@@ -224,13 +224,13 @@ You'll need a computer or tablet running [QGroundControl (QGC)](http://qgroundco
 
 Open up QGroundControl and ensure the GPS and Battery are active “colored black” and have basic functionality in the top panel:
 
-![QGC](/guermonprez/intel-aero-documents/raw/master/doc_photos/calibration_01.png)
+![QGC](https://raw.githubusercontent.com/guermonprez/intel-aero-documents/raw/master/doc_photos/calibration_01.png)
 
 Navigate to the Airframe menu and select “Reset” to reset the drone’s airframe configuration. Select “Apply and Restart” and restart the drone
 
-![QGC](/guermonprez/intel-aero-documents/raw/master/doc_photos/calibration_02.png)
+![QGC](https://raw.githubusercontent.com/guermonprez/intel-aero-documents/raw/master/doc_photos/calibration_02.png)
 
-![QGC](/guermonprez/intel-aero-documents/raw/master/doc_photos/calibration_03.png)
+![QGC](https://raw.githubusercontent.com/guermonprez/intel-aero-documents/raw/master/doc_photos/calibration_03.png)
 
 Wait 1 minute after the drone powers on, and reconnect to its AP.
 
@@ -242,38 +242,38 @@ On QGroundControl, navigate to the Radio menu and select “Calibrate”.
 
 Follow the instructions to calibrate the transmitter, selecting “Next” after each change
 
-![QGC](/guermonprez/intel-aero-documents/raw/master/doc_photos/calibration_04.png)
+![QGC](https://raw.githubusercontent.com/guermonprez/intel-aero-documents/raw/master/doc_photos/calibration_04.png)
 
 Navigate to the Sensors menu. Select “Ok” to start the sensor calibration process
 
-![QGC](/guermonprez/intel-aero-documents/raw/master/doc_photos/calibration_05.png)
+![QGC](https://raw.githubusercontent.com/guermonprez/intel-aero-documents/raw/master/doc_photos/calibration_05.png)
 
 Select Compass menu and press “Ok” to start the calibration process
 
-![QGC](/guermonprez/intel-aero-documents/raw/master/doc_photos/calibration_06.png)
+![QGC](https://raw.githubusercontent.com/guermonprez/intel-aero-documents/raw/master/doc_photos/calibration_06.png)
 
 Position then rotate the drone as indicated in each of the 6 figures
 
-![QGC](/guermonprez/intel-aero-documents/raw/master/doc_photos/calibration_07.png)
+![QGC](https://raw.githubusercontent.com/guermonprez/intel-aero-documents/raw/master/doc_photos/calibration_07.png)
 
 Select Gyroscope menu and it will start automatically. Wait until it completes
 
-![QGC](/guermonprez/intel-aero-documents/raw/master/doc_photos/calibration_08.png)
+![QGC](https://raw.githubusercontent.com/guermonprez/intel-aero-documents/raw/master/doc_photos/calibration_08.png)
 
 Select Accelerometer menu. Position the drone in each of the positions until each of the 6 are marked as green and “Completed"
 
-![QGC](/guermonprez/intel-aero-documents/raw/master/doc_photos/calibration_09.png)
+![QGC](https://raw.githubusercontent.com/guermonprez/intel-aero-documents/raw/master/doc_photos/calibration_09.png)
 
 Select the Level Horizon menu and select “Ok”. The calibration will start and stop automatically
 
-![QGC](/guermonprez/intel-aero-documents/raw/master/doc_photos/calibration_10.png)
+![QGC](https://raw.githubusercontent.com/guermonprez/intel-aero-documents/raw/master/doc_photos/calibration_10.png)
 
 Navigate to Flight Modes and set the following 3 modes:
 * Flight Mode 1 – Position
 * Flight Mode 4 – Altitude
 * Flight Mode 5 – Manual
 
-![QGC](/guermonprez/intel-aero-documents/raw/master/doc_photos/calibration_11.png)
+![QGC](https://raw.githubusercontent.com/guermonprez/intel-aero-documents/raw/master/doc_photos/calibration_11.png)
 
 When this procedure is finished, you should be able to get data in QGC from the drone (ex: GPS coordinates) but also act on the drone (ex: ARM motors, without propellers first).
 

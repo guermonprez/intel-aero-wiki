@@ -3,7 +3,7 @@
 Intel Aero is a set of components to help drone developers design and build their own drones:
 * __Drone hardware integrators__ can use the individual components : Intel Aero Compute Board, Intel Aero Vision Accessory Kit, Intel Aero Enclosure Kit to build their own drone solution.
 * __Software developers__ can use the Intel Aero Ready-To-Fly ("RTF") drone to start coding and run flight tests without assembling a drone themselves. When their software is ready and the drone hardware specifications are clear, they can work with one of the drone hardware integrators to get a custom drone built for their usage model by using the Intel Aero board and sensors (Intel RealSense, Movidius). Important: the Intel Aero Ready-To-Fly drone itself is not a consumer product but a software development kit for professionals. If you are looking for a consumer product, we highly recommend Yuneec's [Typhoon H](https://www.yuneec.com/en_US/products/typhoon/h/overview.html).
-* __Professors__ can directly use the Intel Aero Ready To Fly ("RTF") drone to build their autonomous drone course. We provide an [open source reference course](https://github.com/guermonprez/intel-aero-documents/tree/master/course) for you to help build your own. We can also help with pedagogical consulting (paul.guermonprez@intel.com) to find the best way to introduce the topic in your existing course.
+* __Professors__ can directly use the Intel Aero Ready To Fly ("RTF") drone to build their autonomous drone course. We provide an [open source reference course](https://github.comhttps://raw.githubusercontent.com/guermonprez/intel-aero-documents/tree/master/course) for you to help build your own. We can also help with pedagogical consulting (paul.guermonprez@intel.com) to find the best way to introduce the topic in your existing course.
 
 Typically, a professional drone project targeting production and certification would require a collaboration between hardware and software specialists. Both could start working in parallel and end up with a product using Intel Aero Compute Board, probably Intel RealSense 3D sensors, your choice of motors, propellers frame and a software you would develop for your specific needs.
 
@@ -25,7 +25,7 @@ By default, Intel Aero board and Intel Aero Ready To Fly kit are delivered with 
 
 Many developers may prefer prototyping with typical linux distributions like [Ubuntu*](https://www.ubuntu.com/) and you can [install it manually on Intel Aero](90-(References)-OS-user-Installation).
 
-To learn more about docker, check our [course modules](https://github.com/guermonprez/intel-aero-documents/tree/master/course) `B4 - Architecture - Software Architecture` and `D3 - Software - Docker Containers`.
+To learn more about docker, check our [course modules](https://github.comhttps://raw.githubusercontent.com/guermonprez/intel-aero-documents/tree/master/course) `B4 - Architecture - Software Architecture` and `D3 - Software - Docker Containers`.
 
 ## Development languages
 You are then free to code in the language of your choice. Typical choices by drone software developers include:
@@ -67,20 +67,20 @@ In terms of development environment, you can:
 
 ## Photos of the kits
 * Intel Aero Compute Board
-![unboxing Intel Aero Compute Board](/guermonprez/intel-aero-documents/raw/master/doc_photos/unboxing_Intel_Aero_Compute_Board_small.jpg)
-[link to the hi-resolution photo](/guermonprez/intel-aero-documents/raw/master/doc_photos/unboxing_Intel_Aero_Compute_Board.jpg)
+![unboxing Intel Aero Compute Board](https://raw.githubusercontent.com/guermonprez/intel-aero-documents/raw/master/doc_photos/unboxing_Intel_Aero_Compute_Board_small.jpg)
+[link to the hi-resolution photo](https://raw.githubusercontent.com/guermonprez/intel-aero-documents/raw/master/doc_photos/unboxing_Intel_Aero_Compute_Board.jpg)
 
 * Intel Aero Vision Accessory kit
-![unboxing Intel Aero Vision Accessory kit](/guermonprez/intel-aero-documents/raw/master/doc_photos/unboxing_Intel_Aero_Computer_Vision_kit.jpg)
-[link to the hi-resolution photo](/guermonprez/intel-aero-documents/raw/master/doc_photos/unboxing_Intel_Aero_Computer_Vision_kit_small.jpg)
+![unboxing Intel Aero Vision Accessory kit](https://raw.githubusercontent.com/guermonprez/intel-aero-documents/raw/master/doc_photos/unboxing_Intel_Aero_Computer_Vision_kit.jpg)
+[link to the hi-resolution photo](https://raw.githubusercontent.com/guermonprez/intel-aero-documents/raw/master/doc_photos/unboxing_Intel_Aero_Computer_Vision_kit_small.jpg)
 
 * Intel Aero Ready to Fly kit
-![unboxing Intel Aero Vision Accessory kit](/guermonprez/intel-aero-documents/raw/master/doc_photos/unboxing_Intel_Aero_RTK_kit_small.jpg)
-[link to the hi-resolution photo](/guermonprez/intel-aero-documents/raw/master/doc_photos/unboxing_Intel_Aero_RTK_kit.jpg)
+![unboxing Intel Aero Vision Accessory kit](https://raw.githubusercontent.com/guermonprez/intel-aero-documents/raw/master/doc_photos/unboxing_Intel_Aero_RTK_kit_small.jpg)
+[link to the hi-resolution photo](https://raw.githubusercontent.com/guermonprez/intel-aero-documents/raw/master/doc_photos/unboxing_Intel_Aero_RTK_kit.jpg)
 
 * Intel Aero Enclosure kit
-![unboxing Intel Aero Vision Accessory kit](/guermonprez/intel-aero-documents/raw/master/doc_photos/unboxing_Intel_Aero_Enclosure_kit_small.jpg)
-[link to the hi-resolution photo](/guermonprez/intel-aero-documents/raw/master/doc_photos/unboxing_Intel_Aero_Enclosure_kit.jpg)
+![unboxing Intel Aero Vision Accessory kit](https://raw.githubusercontent.com/guermonprez/intel-aero-documents/raw/master/doc_photos/unboxing_Intel_Aero_Enclosure_kit_small.jpg)
+[link to the hi-resolution photo](https://raw.githubusercontent.com/guermonprez/intel-aero-documents/raw/master/doc_photos/unboxing_Intel_Aero_Enclosure_kit.jpg)
 
 ## Cables and USB hub
 
@@ -134,13 +134,13 @@ There is no power adapter provided for the Ready to Fly Drone, but you may want 
 
 Important: DO NOT CONNECT both a wall adapter & battery at the same time.
 
-![Intel Aero Ready to Fly XT60 connector](/guermonprez/intel-aero-documents/raw/master/doc_photos/cables_XT60_small.jpg)
+![Intel Aero Ready to Fly XT60 connector](https://raw.githubusercontent.com/guermonprez/intel-aero-documents/raw/master/doc_photos/cables_XT60_small.jpg)
 
-[link to the hi-resolution photo](/guermonprez/intel-aero-documents/raw/master/doc_photos/cables_XT60.jpg)
+[link to the hi-resolution photo](https://raw.githubusercontent.com/guermonprez/intel-aero-documents/raw/master/doc_photos/cables_XT60.jpg)
 
-![Intel Aero Ready to Jack connector](/guermonprez/intel-aero-documents/raw/master/doc_photos/cables_jack_small.jpg)
+![Intel Aero Ready to Jack connector](https://raw.githubusercontent.com/guermonprez/intel-aero-documents/raw/master/doc_photos/cables_jack_small.jpg)
 
-[link to the hi-resolution photo](/guermonprez/intel-aero-documents/raw/master/doc_photos/cables_jack.jpg)
+[link to the hi-resolution photo](https://raw.githubusercontent.com/guermonprez/intel-aero-documents/raw/master/doc_photos/cables_jack.jpg)
 
 
 
