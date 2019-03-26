@@ -73,7 +73,7 @@ Intel Aero Compute Board has 2 LEDs that can be controlled via the Intel Atom pr
 This LED is located on the top view of Aero Compute BoarD (refer to the [Hardware Features and Usage] (https://www.intel.com/content/dam/support/us/en/documents/boardsandkits/aero/intel-aero-compute-board-guide.pdf) document. It can be configured as:
 
 ### Red
-The GPIO number for red LED is **437**. Use below commands on [Intel Aero console](https://github.com/guermonprez/meta-intel-aero/wiki/Quickstart-Guide#how-to-get-to-a-console) to turn this LED on:
+The GPIO number for red LED is **437**. Use below commands on [Intel Aero console](https://github.comhttps://raw.githubusercontent.com/guermonprez/meta-intel-aero/wiki/Quickstart-Guide#how-to-get-to-a-console) to turn this LED on:
 ```
     echo 437 > /sys/class/gpio/export
     echo out > /sys/class/gpio/gpio437/direction
@@ -85,7 +85,7 @@ To turn it off:
     echo 437 > /sys/class/gpio/unexport
 ```
 ### Green
-The GPIO number for green LED is **397**. Use below commands on [Intel Aero console](https://github.com/guermonprez/meta-intel-aero/wiki/Quickstart-Guide#how-to-get-to-a-console) to turn this LED on:
+The GPIO number for green LED is **397**. Use below commands on [Intel Aero console](https://github.comhttps://raw.githubusercontent.com/guermonprez/meta-intel-aero/wiki/Quickstart-Guide#how-to-get-to-a-console) to turn this LED on:
 ```
     echo 341 > /sys/class/gpio/export
     echo out > /sys/class/gpio/gpio397/direction
@@ -97,7 +97,7 @@ To turn it off:
     echo 341 > /sys/class/gpio/unexport
 ```
 ### Blue
-The GPIO number for blue LED is **403**. Use below commands on [Intel Aero console](https://github.com/guermonprez/meta-intel-aero/wiki/Quickstart-Guide#how-to-get-to-a-console) to turn this LED on:
+The GPIO number for blue LED is **403**. Use below commands on [Intel Aero console](https://github.comhttps://raw.githubusercontent.com/guermonprez/meta-intel-aero/wiki/Quickstart-Guide#how-to-get-to-a-console) to turn this LED on:
 ```
     echo 403 > /sys/class/gpio/export
     echo out > /sys/class/gpio/gpio403/direction
@@ -111,7 +111,7 @@ To turn it off:
 ## Orange LED
 This LED is located on the bottom view of [Aero Compute Board](https://software.intel.com/sites/default/files/managed/25/d5/Intel-Aero-Compute-Board-Getting-Started.pdf). 
 
-The GPIO number for orange LED is **507**. Use below commands on [Intel Aero console](https://github.com/guermonprez/meta-intel-aero/wiki/Quickstart-Guide#how-to-get-to-a-console) to turn this LED on:
+The GPIO number for orange LED is **507**. Use below commands on [Intel Aero console](https://github.comhttps://raw.githubusercontent.com/guermonprez/meta-intel-aero/wiki/Quickstart-Guide#how-to-get-to-a-console) to turn this LED on:
 ```
     echo 507 > /sys/class/gpio/export
     echo out > /sys/class/gpio/gpio507/direction
@@ -156,7 +156,7 @@ The following Aero Compute Board Processor GPIOs are available:
 
 Note: Grounding this CPU_GPIO_06 for 3 seconds will initiate shutdown on the Compute Board.  This is hardcoded in the BIOS.  It cannot be repurposed by the user.
 
-Use below commands on [Intel Aero console](https://github.com/guermonprez/meta-intel-aero/wiki/Quickstart-Guide#how-to-get-to-a-console) to toggle these processor GPIOs:
+Use below commands on [Intel Aero console](https://github.comhttps://raw.githubusercontent.com/guermonprez/meta-intel-aero/wiki/Quickstart-Guide#how-to-get-to-a-console) to toggle these processor GPIOs:
 
 Configure CPU_GPIO_01 as an output and drive it High / Low
 ```

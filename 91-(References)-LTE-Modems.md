@@ -39,7 +39,7 @@ To preform the LTE modem hardware installation, you will need to purchase the fo
 * Tray to hold the nano SIM card
 * 2mm hex nut
 
-[Links to online retailers](https://github.com/guermonprez/meta-intel-aero/wiki/90-(References)-Enabling-LTE-Modems#resources) where these items can be purchased are found at the end of these instructions.
+[Links to online retailers](https://github.comhttps://raw.githubusercontent.com/guermonprez/meta-intel-aero/wiki/90-(References)-Enabling-LTE-Modems#resources) where these items can be purchased are found at the end of these instructions.
 
 <img src="https://raw.githubusercontent.com/guermonprez/intel-aero-documents/master/doc_photos/lte_required_hw.png?raw=true" width=50%/><br>
 **Figure 1.** Required Hardware
@@ -83,11 +83,11 @@ Follow [these instructions](02-Initial-Setup) for downloading and installing the
 * BSP v1.5.1
 * BIOS v01.00.13  
 
-Note that the Aero Ready to Fly Drone will also require the flight controller firmware to be updated as well.  Review the Aero [software release notes](https://github.com/guermonprez/meta-intel-aero/wiki/98-Software-Release-Notes) for details.
+Note that the Aero Ready to Fly Drone will also require the flight controller firmware to be updated as well.  Review the Aero [software release notes](https://github.comhttps://raw.githubusercontent.com/guermonprez/meta-intel-aero/wiki/98-Software-Release-Notes) for details.
 
 ### Verify Hardware is Recognized
 After​ ​ updating,​ ​ open​ ​ up​ ​ a ​ ​ SSH​ ​ terminal​ ​ by​ ​ connecting​ ​ to​ ​ Aero's WiFi​ ​ Access​ ​ Point​ ​ (refer​ ​ to​ ​ this
-[wiki](https://github.com/guermonprez/meta-intel-aero/wiki/08-Aero-Network-and-System-Administration#networking-access-point-wifi)​ ).​ ​ ​ Modem​ ​ Manager​ ​ (replaces​ ​ Connection​ ​ Manager​ ​ on​ ​ previous​ ​ Aero  BSP​ ​ releases)​ ​ should
+[wiki](https://github.comhttps://raw.githubusercontent.com/guermonprez/meta-intel-aero/wiki/08-Aero-Network-and-System-Administration#networking-access-point-wifi)​ ).​ ​ ​ Modem​ ​ Manager​ ​ (replaces​ ​ Connection​ ​ Manager​ ​ on​ ​ previous​ ​ Aero  BSP​ ​ releases)​ ​ should
 automatically​ ​ detect​ ​ the​ ​ installed​ ​ LTE​ ​ modem​ ​ and​ ​ enumerate​ ​ it​ ​ as​ ​ Modem​ ​ 0.​ ​ Query​ ​ the​ ​ modem
 info​ ​ below.
 

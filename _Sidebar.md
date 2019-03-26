@@ -15,7 +15,7 @@
 # References:
 * [Network-SysAdmin](08-Aero-Network-and-System-Administration)
 * [LTE Modem](91-(References)-LTE-Modems)
-* [Connecting an External Flight Controller (Pixhawk)](https://github.com/guermonprez/meta-intel-aero/wiki/Connecting-an-External-Flight-Controller)
+* [Connecting an External Flight Controller (Pixhawk)](https://github.comhttps://raw.githubusercontent.com/guermonprez/meta-intel-aero/wiki/Connecting-an-External-Flight-Controller)
 * [Sensors, GPIOs, LEDs, CAN](94-(References)-Sensors-GPIOs-LEDs-CAN-bus)
 * [FPGA](95-(References)-FPGA)
 * [LIDAR 1d Laser for height](https://docs.px4.io/en/flight_controller/intel_aero.html)

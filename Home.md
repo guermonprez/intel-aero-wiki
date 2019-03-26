@@ -2,7 +2,7 @@
 
 **Important: [Upgrade to BSP](02-Initial-Setup) Image v1.6.1, Released on 2017-12-18**
 
-**New: [Install Ubuntu* 16.04](https://github.com/guermonprez/meta-intel-aero/wiki/90-(References)-OS-user-Installation) then [ROS Kinetic](05-Autonomous-drone-programming-with-ROS) on Intel Aero**
+**New: [Install Ubuntu* 16.04](https://github.comhttps://raw.githubusercontent.com/guermonprez/meta-intel-aero/wiki/90-(References)-OS-user-Installation) then [ROS Kinetic](05-Autonomous-drone-programming-with-ROS) on Intel Aero**
 
 **Support forum: [communities.intel.com](https://communities.intel.com/community/tech/intel-aero/)**
 

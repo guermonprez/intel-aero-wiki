@@ -10,7 +10,7 @@ Though these instructions are specifically for the Pixhawk flight controller, an
 1. Run the latest Aero Software
 
    Ensure the Aero Compute Board software is up to date by following these instructions:
-   https://github.com/guermonprez/meta-intel-aero/wiki/02-Initial-Setup#flashing
+   https://github.comhttps://raw.githubusercontent.com/guermonprez/meta-intel-aero/wiki/02-Initial-Setup#flashing
 
 2. Configure the on-board Altera Max 10 FPGA
 

@@ -34,7 +34,7 @@ Intel Aero Enclosure kit:
 * [Mechanical Assembly Guide for Intel Aero Platform for UAVs ](https://www.intel.com/content/www/us/en/support/boards-and-kits/000023057.html)
 
 Support:
-* [This documentation wiki on github](https://github.com/guermonprez/meta-intel-aero/wiki)
+* [This documentation wiki on github](https://github.comhttps://raw.githubusercontent.com/guermonprez/meta-intel-aero/wiki)
 * [Intel Aero official support forum](https://communities.intel.com/community/tech/intel-aero)
 * [Intel RealSense official support forum](https://communities.intel.com/community/tech/realsense)
 * [Return Requests for Intel Aero Products](http://www.intel.com/content/www/us/en/support/boards-and-kits/intel-aero-kits/000023364.html)
@@ -43,7 +43,7 @@ Support:
 
 Software:
 * [Intel Aero Sources: github.com/intel-aero](https://github.com/intel-aero/meta-intel-aero)
-* [Intel Aero Software: Release notes](https://github.com/guermonprez/meta-intel-aero/wiki/Software-Release-Notes
+* [Intel Aero Software: Release notes](https://github.comhttps://raw.githubusercontent.com/guermonprez/meta-intel-aero/wiki/Software-Release-Notes
 )
 * [PX4 Sources: github.com/PX4](https://github.com/PX4/Firmware)
 * [UEFI BIOS: Enabled by InsydeH2O](https://www.insyde.com/insydeh2o-intel-aero)

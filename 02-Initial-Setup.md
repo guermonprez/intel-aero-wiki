@@ -6,7 +6,7 @@ Video recording of the install procedure described in this page:
 [Video: Autonomous Drone Engineer Course - Module C1 - Out of Box and Flashing](https://www.youtube.com/watch?v=e9MLnRbMDHo&index=7&list=PLTQSXsG86pGfyZm5ac6-ZtQsEniUJIE9o)
 
 ## Power
-If you use the wall socket power adapter, connect the cable as described in [the first page](https://github.com/guermonprez/meta-intel-aero/wiki/01-About-Intel-Aero#wall-socket-power-adapter).
+If you use the wall socket power adapter, connect the cable as described in [the first page](https://github.comhttps://raw.githubusercontent.com/guermonprez/meta-intel-aero/wiki/01-About-Intel-Aero#wall-socket-power-adapter).
 If you use a LiPo battery, refer to the manual of your charger and battery to safely charge your LiPo battery. Then connect the battery to Intel Aero XT60 connector.
 
 A short press of the power button should switch on Intel Aero. You'll hear a beep and see light coming from the adjacent LEDs.
@@ -17,13 +17,13 @@ You have the choice between 2 options:
 * alternate method: connect a USB key only and flash the system
 
 Recommended method: Connect all devices
-* OTG USB cable to Aero (you can reuse an old USB2 OTG cable, but if you're buying a new one pick a USB3 - [check the cable reference notes](https://github.com/guermonprez/meta-intel-aero/wiki/08-Aero-Network-and-System-Administration#sysadmin-ubuntu-installation))
+* OTG USB cable to Aero (you can reuse an old USB2 OTG cable, but if you're buying a new one pick a USB3 - [check the cable reference notes](https://github.comhttps://raw.githubusercontent.com/guermonprez/meta-intel-aero/wiki/08-Aero-Network-and-System-Administration#sysadmin-ubuntu-installation))
 * USB hub to OTG cable (optional, only needed if keyboard and USB thumb drive are used at the same time)
 * keyboard, mouse and USB thumb drive (see next chapter on how to build this key)
 * micro HDMI cable to Aero
 
 Alternate method: Connect a USB key only
-* OTG USB cable to Aero (you can reuse an old USB2 OTG cable, but if you're buying a new one pick a USB3 - [check the cable reference notes](https://github.com/guermonprez/meta-intel-aero/wiki/08-Aero-Network-and-System-Administration#sysadmin-ubuntu-installation))
+* OTG USB cable to Aero (you can reuse an old USB2 OTG cable, but if you're buying a new one pick a USB3 - [check the cable reference notes](https://github.comhttps://raw.githubusercontent.com/guermonprez/meta-intel-aero/wiki/08-Aero-Network-and-System-Administration#sysadmin-ubuntu-installation))
 * USB key to OTG USB cable
 
 ![USB-OTG and microHDMI connected](/guermonprez/intel-aero-documents/raw/master/doc_photos/cables_usb-hdmi-connected_small.jpg)
